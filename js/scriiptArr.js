@@ -30,3 +30,9 @@ function compareNum(a, b) {
 // const products = str.split(", ");
 // products.sort();
 // console.log(products.join('; '))
+
+// const arry = [1, 2, 3, 4];
+// arry.shift(1);
+// // arry.unshift(0);
+
+// console.log(arry);
